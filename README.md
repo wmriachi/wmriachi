@@ -6,7 +6,7 @@ Senior Technical Program Manager with a software engineering foundation. Buildin
 
 ## Production AI Work
 
-**Meta** (2022–2025)
+**Meta** (2022–2026)
 - **WaveSurfer** — Agentic compliance task management platform built end-to-end. Four layers: task analysis engine, smart notifications with one-click actions, agentic tools embedded in Google Chat (similar-diff lookup, auto-posting, workstream routing), and a Claude Code CLI with custom MCP tools that automated full wave reporting. Eliminated 7,200 hours/year of manual work. Adopted across multiple Meta orgs.
 - **ACRA** — Drove adoption of an agentic compliance remediation platform across 6 workstreams. Built gold-set eval framework using prior code versions as ground truth. $4M annualized savings.
 - **SevGuard** — 0-to-1 multi-tool AI agent for Facebook Risk: filters regulatory incidents from noise, auto-classifies across 13 regulatory risk areas (DSA, DMA, competition law), maps to risk controls.
